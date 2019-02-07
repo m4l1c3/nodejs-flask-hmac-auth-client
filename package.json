@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-flask-hmac-auth-client",
+  "version": "1.0.0",
+  "description": "A NodeJS library for computing HMAC for use with Flask APIs utilizing flask-hmac-auth-m4l1c3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4l1c3/nodejs-flask-hmac-auth-client.git"
+  },
+  "keywords": [
+    "hmac",
+    "message-authentication"
+  ],
+  "author": "m4l1c3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m4l1c3/nodejs-flask-hmac-auth-client/issues"
+  },
+  "homepage": "https://github.com/m4l1c3/nodejs-flask-hmac-auth-client#readme"
+}
